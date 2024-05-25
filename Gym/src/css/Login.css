@@ -1,0 +1,61 @@
+body{
+  font-family: Dosis, cursive;
+}
+
+.header {
+  background-color: #f0f0f0; 
+  padding: 20px; 
+  display: flex; 
+  align-items: center;
+}
+
+
+.icon {
+  width: 100px; 
+  height: 100px; 
+  margin-right: 20px;
+}
+
+.title1 {
+  font-size: 24px;
+  color: #333;
+  margin-right: auto;
+}
+
+.headerOptions {
+  display: flex;
+}
+
+.headerOptions a {
+  text-decoration: none;
+  color: #555; 
+  margin-right: 10px; 
+}
+
+
+.headerOptions a:hover {
+  color: #000; 
+}
+
+/* parte 2 */
+
+h1 {
+  text-align: center;
+  margin-top: 30px;
+  color: #333;
+}
+
+form {
+  max-width: 400px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+  color: #333;
+}

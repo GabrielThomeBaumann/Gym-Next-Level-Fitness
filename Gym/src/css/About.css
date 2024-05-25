@@ -1,0 +1,75 @@
+body{
+    font-family: Dosis, cursive;
+}
+
+.header {
+    background-color: #f0f0f0; 
+    padding: 20px; 
+    display: flex; 
+    align-items: center;
+}
+
+
+.icon {
+    width: 100px; 
+    height: 100px; 
+    margin-right: 20px;
+}
+
+.title1 {
+    font-size: 24px;
+    color: #333;
+    margin-right: auto;
+}
+
+.headerOptions {
+    display: flex;
+}
+
+.headerOptions a {
+    text-decoration: none;
+    color: #555; 
+    margin-right: 10px; 
+}
+
+
+.headerOptions a:hover {
+    color: #000; 
+}
+
+/* main */
+
+.title2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.history{
+    display: flex;
+    margin: 20px;
+}
+
+img{
+width: 400px;
+}
+
+.history p {
+    margin: 10px;
+}
+
+
+.title3 {
+    margin-left: 50px;
+}
+
+.services {
+    width: 900px;
+    margin: 50px;
+    display: flex;
+    font-size: 20px;
+}
+
+.services p {
+    margin: 10px;
+}
+

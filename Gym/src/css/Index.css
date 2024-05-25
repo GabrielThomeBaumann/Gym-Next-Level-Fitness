@@ -1,0 +1,88 @@
+body{
+    font-family: Dosis, cursive;
+}
+
+.header {
+    background-color: #f0f0f0; 
+    padding: 20px; 
+    display: flex; 
+    align-items: center;
+}
+
+
+.icon {
+    width: 100px; 
+    height: 100px; 
+    margin-right: 20px;
+}
+
+.title1 {
+    font-size: 24px;
+    color: #333;
+    margin-right: auto;
+}
+
+.headerOptions {
+    display: flex;
+}
+
+.headerOptions a {
+    text-decoration: none;
+    color: #555; 
+    margin-right: 10px; 
+}
+
+
+.headerOptions a:hover {
+    color: #000; 
+}
+
+/* part 2 */
+
+
+
+.title2 {
+    font-size: 25px;
+    width: 500px;
+    margin: 10px;
+    margin-left: 60px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.section1{
+    display: flex;
+    font-size: 17px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.section2{
+    display: flex;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.text2{
+    font-size: 17px;
+    margin-left: 5px;
+}
+
+.people{
+    width: 500px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.haltereMan {
+    width: 500px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
